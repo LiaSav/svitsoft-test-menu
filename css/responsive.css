@@ -2,6 +2,12 @@
   header .header .header_left .lang_list {
     display: none;
   }
+  header .header .header_left {
+    background-color: #fff;
+  }
+  header .header .header_left .logo {
+    background-color: #f7f8fc;
+  }
   .container {
     max-width: 80%;
   }
@@ -9,6 +15,12 @@
 @media (max-width: 768px) {
   header .header .header_left .lang_list {
     display: none;
+  }
+  header .header .header_left {
+    background-color: #fff;
+  }
+  header .header .header_left .logo {
+    background-color: #f7f8fc;
   }
   .container {
     max-width: 80%;

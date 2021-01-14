@@ -18,6 +18,7 @@ header .header .header_left {
   display: inline-block;
   height: 6rem;
   width: 29.25rem;
+  background-color: #f7f8fc;
 }
 header .header .header_left .logo {
   display: inline-block;
